@@ -1,4 +1,4 @@
-public class AddNumbers {
+public class Second_Project {
 
  public static void main(String[] args) {
 
